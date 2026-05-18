@@ -1,0 +1,25 @@
+# Secrets — tokens Microsoft + Minecraft Bearer + config serveur
+.env
+.env.*
+!.env.example
+saves.json
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Binaires & runtimes (à re-télécharger, pas à versionner)
+jre/
+ViaProxy.jar
+*.jar
+
+# Runtime ViaProxy (regénéré au lancement)
+logs/
+jars/
+plugins/
+viabedrock/
+via*.yml

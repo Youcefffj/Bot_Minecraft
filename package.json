@@ -1,0 +1,11 @@
+{
+  "name": "mc-bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bot Minecraft simple via mineflayer",
+  "main": "bot.js",
+  "dependencies": {
+    "minecraft-protocol": "^1.66.2",
+    "mineflayer": "^4.37.1"
+  }
+}
